@@ -17,6 +17,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough 
 
+<a target="_blank" href="https://github.com/ashianagi11/TipCalculator/blob/master/TipCalVideo.gif"><img src="/ashianagi11/TipCalculator/blob/master/TipCalVideo.gif?raw=true" alt="TipCalVideo.gif"></a>
 
 ## Notes
 
