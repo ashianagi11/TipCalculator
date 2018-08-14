@@ -17,7 +17,6 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough 
 
-<img src="file:///Users/meme/Downloads/TipCalVideo.gif" alt="Tip Cal Demo">
 
 ## Notes
 
