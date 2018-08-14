@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough 
 
-<a target="_blank" href="file:///Users/meme/Downloads/TipCalVideo<img style="-webkit-user-select: none;cursor: zoom-in;" src="file:///Users/meme/Downloads/TipCalVideo.gif" width="506" height="292">.gif"> 
+<img src="file:///Users/meme/Downloads/TipCalVideo.gif" alt="Tip Cal Demo">
 
 ## Notes
 
